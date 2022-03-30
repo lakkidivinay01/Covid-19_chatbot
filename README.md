@@ -6,7 +6,7 @@ The bot can be deployed and embedded in an html we page, Here I used google site
 
 
 
-I used free services in azure to make this bot.
+I used free services in azure to make this bot.QnA maker is a easy and simple to use service.
 
 For the knowledge base during the creation of QnA service , i used docs(url) from the internet.
 
