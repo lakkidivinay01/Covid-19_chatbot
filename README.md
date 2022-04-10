@@ -10,13 +10,24 @@ I used free services in azure to make this bot.QnA maker is a easy and simple to
 
 For the knowledge base during the creation of QnA service , i used docs(url) from the internet.
 
+1)First of all i created resource group(chatbot) for the chatbot tresouces to be published.
+
+https://drive.google.com/file/d/18P_ax0Yac5BN3T9nGQSYLpnKP4BL4zlD/view?usp=sharing
+
+
+2) Then I created QnA maker resouce in the chatbot resouce group.
+
+
+
+
 We can also add the Question - Answer pair explicitly to react to the questions that people may ask.
 
 
 After creating the bot the html code is embedded through web channels in an html page.
 
 
-We can create the webpage as we want it to be.
+
+
 
 
 
